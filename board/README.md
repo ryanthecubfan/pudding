@@ -20,24 +20,21 @@ seat. **Every member must have a real, ingestible public corpus** (that's why th
 
 ## The roster
 
-> File numbers are non-contiguous (02 retired with the Jan seat); this is cosmetic only —
-> the board skill globs by pattern, not by sequence.
-
 | # | Seat | Member | Content status |
 |---|---|---|---|
 | 01 | Commercial grilling | Mark Cuban | not ingested |
-| 03 | AI builder | Austin Marchese | not ingested |
-| 04 | AI builder | Nate Herk | not ingested |
-| 05 | Belonging / self-compassion | Brené Brown | not ingested |
-| 06 | Belonging / self-compassion | Pema Chödrön | not ingested |
-| 07 | Creator growth | Paddy Galloway | not ingested |
-| 08 | Creator growth | Colin and Samir | not ingested |
-| 09 | Finisher | Ali Abdaal | not ingested |
-| 10 | Finisher | Cal Newport | not ingested |
-| 11 | Finisher | Oliver Burkeman | not ingested |
-| 12 | Finisher | David Allen | not ingested |
-| 13 | AuDHD / solo-builder peer | Pieter Levels | not ingested |
-| 14 | AuDHD / solo-builder peer | Jessica McCabe | not ingested |
+| 02 | AI builder | Austin Marchese | not ingested |
+| 03 | AI builder | Nate Herk | not ingested |
+| 04 | Belonging / self-compassion | Brené Brown | not ingested |
+| 05 | Belonging / self-compassion | Pema Chödrön | not ingested |
+| 06 | Creator growth | Paddy Galloway | not ingested |
+| 07 | Creator growth | Colin and Samir | not ingested |
+| 08 | Finisher | Ali Abdaal | not ingested |
+| 09 | Finisher | Cal Newport | not ingested |
+| 10 | Finisher | Oliver Burkeman | not ingested |
+| 11 | Finisher | David Allen | not ingested |
+| 12 | AuDHD / solo-builder peer | Pieter Levels | not ingested |
+| 13 | AuDHD / solo-builder peer | Jessica McCabe | not ingested |
 
 ## Universal engagement rules (apply to EVERY member)
 
