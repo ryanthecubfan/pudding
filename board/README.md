@@ -9,14 +9,20 @@ for any given topic, ingest everyone's content, and prune later if a voice isn't
 seat. **Every member must have a real, ingestible public corpus** (that's why the private
 "Jan" seat was retired — no public content to draw on).
 
+> **See also [`DESIGN-NOTES.md`](DESIGN-NOTES.md)** — cross-cutting principles for ingestion:
+> capture **thought patterns** (adaptability, hype-vs-fundamentals, openness to
+> counterargument, explanatory clarity — weighted per member), and treat the board as
+> **living** (members grow beyond their source material and keep up with the times).
+
 ## Pipeline status
 
 1. ✅ **Profile** — `../career-coach-profile.md`
 2. ✅ **Roster locked** — 13 members (below), each its own file
-3. ⬜ **Ingest content** — fill each member's `Sources / Ingested Content` section
-   (YouTubers/public corpora). User will provide the Step 3 prompt.
+3. ⬜ **Ingest content** — fill each member's `Sources / Ingested Content` section AND the
+   `thought_patterns` read (see DESIGN-NOTES). A higher-fidelity pass will run from the
+   user's laptop (where web fetch isn't blocked).
 4. ⬜ **Board skill** — globs `board/[0-9]*.md`, loads personas + ingested content, convenes
-   the relevant members on demand
+   the relevant members on demand; supports refreshing/evolving each member over time.
 
 ## The roster
 
@@ -54,4 +60,5 @@ Straight from the profile (§8); they override any member's individual style:
 ## File format
 
 Each `NN-member.md` has YAML front matter (machine-readable) + a Markdown charter. The
-`sources_to_ingest` and `Sources / Ingested Content` fields are the hooks for Step 3.
+`sources_to_ingest` and `Sources / Ingested Content` fields are the hooks for Step 3, plus
+the `thought_patterns` block described in DESIGN-NOTES.md.
