@@ -33,7 +33,7 @@ seat. **Every member must have a real, ingestible public corpus** (that's why th
 | 02 | AI builder | Austin Marchese | ingested (2026-06-09) |
 | 03 | AI builder | Nate Herk | ingested (2026-06-09) |
 | 04 | Belonging / self-compassion | Brené Brown | ingested (2026-06-09) |
-| 05 | Belonging / self-compassion | Pema Chödrön | not ingested |
+| 05 | Belonging / self-compassion | Pema Chödrön | ingested (2026-06-09) |
 | 06 | Creator growth | Paddy Galloway | not ingested |
 | 07 | Creator growth | Colin and Samir | not ingested |
 | 08 | Finisher | Ali Abdaal | ingested (2026-06-09) |
