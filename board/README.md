@@ -36,7 +36,7 @@ seat. **Every member must have a real, ingestible public corpus** (that's why th
 | 05 | Belonging / self-compassion | Pema Chödrön | not ingested |
 | 06 | Creator growth | Paddy Galloway | not ingested |
 | 07 | Creator growth | Colin and Samir | not ingested |
-| 08 | Finisher | Ali Abdaal | not ingested |
+| 08 | Finisher | Ali Abdaal | ingested (2026-06-09) |
 | 09 | Finisher | Cal Newport | not ingested |
 | 10 | Finisher | Oliver Burkeman | not ingested |
 | 11 | Finisher | David Allen | not ingested |
