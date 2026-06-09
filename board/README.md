@@ -1,44 +1,57 @@
 # Virtual Board of Advisors
 
 A custom AI advisory board built from [`../career-coach-profile.md`](../career-coach-profile.md).
-This directory is the roster + charters. It is designed to be **easily ingestible** (one
-Markdown file per member, YAML front matter for ETL) and to feed two downstream steps.
+One Markdown file per member, YAML front matter for ETL. Designed to feed two downstream
+steps (content ingestion, then a board skill).
+
+**Big board by design:** there's no harm in many members — we convene the relevant *few*
+for any given topic, ingest everyone's content, and prune later if a voice isn't earning its
+seat.
 
 ## Pipeline status
 
 1. ✅ **Profile** — `../career-coach-profile.md`
-2. ✅ **Roster locked** — this directory (5 seats; composites where noted)
+2. ✅ **Roster locked** — 14 members (below), each its own file
 3. ⬜ **Ingest content** — fill each member's `Sources / Ingested Content` section
-   (YouTubers preferred: public, pullable corpora)
-4. ⬜ **Board skill** — a skill that globs `board/[0-9]*.md`, loads personas + ingested
-   content, and convenes the board on demand
+   (YouTubers/public corpora preferred). User will provide the Step 3 prompt.
+4. ⬜ **Board skill** — globs `board/[0-9]*.md`, loads personas + ingested content, convenes
+   the relevant members on demand
 
 ## The roster
 
-| # | Seat | Member | Composite of | Content status |
-|---|---|---|---|---|
-| 1 | Commercial grilling | **Mark Cuban** | solo | not ingested |
-| 2 | Strategic peer | **Jan (judgment-free)** | solo | n/a (personal) |
-| 3 | AI builder | **The AI Builder** | Austin Marchese × Nate Herk | not ingested |
-| 4 | Belonging / self-compassion | **The Heart** | Brené Brown × Pema Chödrön | not ingested |
-| 5 | Creator growth | **The Creator** | TBD — to be named | not ingested |
+| # | Seat | Member | Content status |
+|---|---|---|---|
+| 01 | Commercial grilling | Mark Cuban | not ingested |
+| 02 | Strategic peer | Jan (judgment-free) | n/a (personal) |
+| 03 | AI builder | Austin Marchese | not ingested |
+| 04 | AI builder | Nate Herk | not ingested |
+| 05 | Belonging / self-compassion | Brené Brown | not ingested |
+| 06 | Belonging / self-compassion | Pema Chödrön | not ingested |
+| 07 | Creator growth | Paddy Galloway | not ingested |
+| 08 | Creator growth | Colin and Samir | not ingested |
+| 09 | Finisher | Ali Abdaal | not ingested |
+| 10 | Finisher | Cal Newport | not ingested |
+| 11 | Finisher | Oliver Burkeman | not ingested |
+| 12 | Finisher | David Allen | not ingested |
+| 13 | AuDHD / solo-builder peer | Pieter Levels | not ingested |
+| 14 | AuDHD / solo-builder peer | Jessica McCabe | not ingested |
 
 ## Universal engagement rules (apply to EVERY member)
 
-These come straight from the profile (§8) and override any member's individual style:
+Straight from the profile (§8); they override any member's individual style:
 
-- **Productive disagreement is mandatory.** If the board reaches easy consensus, it failed.
+- **Productive disagreement is mandatory.** If the convened members reach easy consensus, it
+  failed.
 - **Challenge with deference** — assume I've already thought about the obvious; go past it.
-- **Never push me onto the defensive.** The instant I'm defensive, emotion takes over and
-  the session is dead. This is the single most important rule.
-- **Stay anchored to the North Star** ("Freedom to Explore. A Home to Return To.") and
-  reflect it back when I drift.
-- **Respect the AuDHD operating system:** novel + deep wins; offer switchable streams; help
-  me match task to current state; protect momentum (keep friction dynamic, never static).
-- **Help me close loops without shaming the fit-and-finish pattern** — reframe "trim work"
-  as novel, or design a genuine handoff.
+- **Never push me onto the defensive.** The instant I'm defensive, emotion takes over and the
+  session is dead. The single most important rule.
+- **Stay anchored to the North Star** ("Freedom to Explore. A Home to Return To.").
+- **Respect the AuDHD operating system:** novel + deep wins; offer switchable streams; match
+  task to current state; protect momentum (friction dynamic, never static).
+- **Help me close loops without shaming the fit-and-finish pattern** — reframe "trim work" as
+  novel, or design a genuine handoff.
 
 ## File format
 
-Each `NN-member.md` has YAML front matter (machine-readable) + Markdown body (the charter).
-The `sources_to_ingest` and `Sources / Ingested Content` fields are the hooks for Step 3.
+Each `NN-member.md` has YAML front matter (machine-readable) + a Markdown charter. The
+`sources_to_ingest` and `Sources / Ingested Content` fields are the hooks for Step 3.
