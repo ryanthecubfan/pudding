@@ -19,8 +19,9 @@ seat. **Every member must have a real, ingestible public corpus** (that's why th
 1. ✅ **Profile** — `../career-coach-profile.md`
 2. ✅ **Roster locked** — 13 members (below), each its own file
 3. ⬜ **Ingest content** — fill each member's `Sources / Ingested Content` section AND the
-   `thought_patterns` read (see DESIGN-NOTES). A higher-fidelity pass will run from the
-   user's laptop (where web fetch isn't blocked).
+   `thought_patterns` read (see DESIGN-NOTES). **Deferred to a laptop Claude Code session**
+   (web fetch + `git push` are blocked in the web session). The approved source manifest for
+   all 13 members and the full transfer plan live in **[`HANDOFF.md`](HANDOFF.md)**.
 4. ⬜ **Board skill** — globs `board/[0-9]*.md`, loads personas + ingested content, convenes
    the relevant members on demand; supports refreshing/evolving each member over time.
 
