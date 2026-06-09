@@ -31,7 +31,7 @@ seat. **Every member must have a real, ingestible public corpus** (that's why th
 |---|---|---|---|
 | 01 | Commercial grilling | Mark Cuban | ingested (2026-06-09) |
 | 02 | AI builder | Austin Marchese | ingested (2026-06-09) |
-| 03 | AI builder | Nate Herk | not ingested |
+| 03 | AI builder | Nate Herk | ingested (2026-06-09) |
 | 04 | Belonging / self-compassion | Brené Brown | not ingested |
 | 05 | Belonging / self-compassion | Pema Chödrön | not ingested |
 | 06 | Creator growth | Paddy Galloway | not ingested |
