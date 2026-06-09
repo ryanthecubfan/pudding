@@ -45,6 +45,21 @@ yt-dlp --write-auto-sub --skip-download --sub-lang en --convert-subs srt \
   -o "/tmp/%(id)s" "https://www.youtube.com/watch?v=VIDEO_ID"
 ```
 
+**Recommended Claude Code settings (Max20 plan):**
+- **Model:** Opus 4.8 (`claude-opus-4-8`) for the driver session — the persona synthesis and
+  the "How they'd coach ME" section are the intelligence-sensitive payload.
+- **Effort:** `high` for ingestion; `xhigh` when building the board skill (Step 4 / coding).
+  Start at `high`; only raise if quality lags (don't reflexively max it).
+- **Subagents → cheaper models:** delegate the grunt work — yt-dlp transcript pulls, raw page
+  fetches, link verification — to **Haiku 4.5** or **Sonnet 4.6** subagents; reserve Opus for
+  synthesis. This stretches your Opus window across more members.
+- **Fast mode (`/fast`):** fine for interactive review/tuning — it's Opus 4.8 with faster
+  output, not a model downgrade.
+- **One member per session** keeps context lean — don't load multiple members' transcripts at
+  once even though Opus 4.8 has a 1M window.
+- **Usage note:** Max20 has a lot of Opus, but it's metered on rolling 5-hour + weekly
+  windows (not unlimited). Member-by-member chunking avoids eating a whole window in one run.
+
 ## C. The ingestion task — one member per session
 
 **Each board member is its own Claude Code session.** Do not try to batch multiple members.
