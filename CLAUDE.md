@@ -22,16 +22,17 @@ done and what's next, read the repo itself:
 limitations + session conventions), but it is **not** the status tracker — trust the member
 files, not a checklist.
 
-## Ship immediately — no approval, no draft gating
+## Ship through a PR, self-merge immediately — no approval, no draft gating
 
-The owner has **pre-authorized autonomous merges** in this repo. For any change:
+The owner has **pre-authorized autonomous merges** in this repo, and wants **every change to
+go through a PR** so the history is preserved. For any change:
 
 1. `git pull origin main` first (multiple sessions run in parallel).
 2. Branch off the latest `main`, commit, push.
-3. **Merge it yourself, immediately** — `gh pr merge --squash --delete-branch` (or a direct
-   commit to `main` for small docs changes). Do not leave PRs as drafts; do not wait for
-   approval.
-4. **Merge races:** whoever loses reconciles — rebase onto the new `main` and re-push.
+3. **Always open a PR** — never commit directly to `main` (we keep the PR history).
+4. **Merge it yourself, immediately** — `gh pr merge --squash --delete-branch`. Do not leave
+   PRs as drafts; do not wait for approval.
+5. **Merge races:** whoever loses reconciles — rebase onto the new `main` and re-push.
 
 ## Step 3 ingestion conventions
 
