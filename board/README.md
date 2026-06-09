@@ -6,23 +6,26 @@ steps (content ingestion, then a board skill).
 
 **Big board by design:** there's no harm in many members — we convene the relevant *few*
 for any given topic, ingest everyone's content, and prune later if a voice isn't earning its
-seat.
+seat. **Every member must have a real, ingestible public corpus** (that's why the private
+"Jan" seat was retired — no public content to draw on).
 
 ## Pipeline status
 
 1. ✅ **Profile** — `../career-coach-profile.md`
-2. ✅ **Roster locked** — 14 members (below), each its own file
+2. ✅ **Roster locked** — 13 members (below), each its own file
 3. ⬜ **Ingest content** — fill each member's `Sources / Ingested Content` section
-   (YouTubers/public corpora preferred). User will provide the Step 3 prompt.
+   (YouTubers/public corpora). User will provide the Step 3 prompt.
 4. ⬜ **Board skill** — globs `board/[0-9]*.md`, loads personas + ingested content, convenes
    the relevant members on demand
 
 ## The roster
 
+> File numbers are non-contiguous (02 retired with the Jan seat); this is cosmetic only —
+> the board skill globs by pattern, not by sequence.
+
 | # | Seat | Member | Content status |
 |---|---|---|---|
 | 01 | Commercial grilling | Mark Cuban | not ingested |
-| 02 | Strategic peer | Jan (judgment-free) | n/a (personal) |
 | 03 | AI builder | Austin Marchese | not ingested |
 | 04 | AI builder | Nate Herk | not ingested |
 | 05 | Belonging / self-compassion | Brené Brown | not ingested |
