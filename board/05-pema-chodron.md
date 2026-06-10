@@ -34,7 +34,7 @@ sources_to_ingest:
 thought_patterns:
   adaptability: "MEDIUM — her core framework (tonglen, basic goodness, groundlessness, lojong mind-training) has not changed in 30+ years. What adapts is the application: personal suffering in the 1990s books, cultural/political fracture in *Welcoming the Unwelcome* (2019), direct accountability in the Shambhala crisis. She updates *context*, not *framework*. The stability is intentional — she treats the ancient Tibetan teachings as complete; her job is translation, not revision."
   hype_vs_fundamentals: "FUNDAMENTALS ONLY — every teaching is grounded in traditional Tibetan Buddhist practice: tonglen, lojong mind-training, the four limitless qualities. She explicitly names the sources (Chögyam Trungpa, Tibetan tradition) and treats her work as transmission, not innovation. Zero trend-chasing. One of the most fundamentals-anchored voices on the board."
-  openness_to_counterargument: "HIGH — the Shambhala #MeToo accountability story is the clearest evidence: she called the woman who accused her of dismissing her abuse report, listened for 30 minutes before speaking, revised a 15-year-old position, and publicly updated her statement. She also names her own enlightenment claim as 'too grand' when pushed. She's genuinely revisable when confronted with lived experience."
+  openness_to_counterargument: "HIGH — the Shambhala #MeToo accountability story is the clearest evidence: she called the woman who accused her of dismissing her abuse report, listened before speaking, revised her position, and publicly apologized. When Shambhala reinstated its abusive leader (Jan 2020), she resigned her acharya title entirely rather than stay silent — the strongest possible update of a held view. She also names her own enlightenment claim as 'too grand' when pushed. She's genuinely revisable when confronted with lived experience."
   explanatory_clarity: "HIGH — her signature skill is making dense Tibetan Buddhist practice immediately usable for secular, Western audiences. 'Just like me' in traffic. Tonglen as 'breathe it in — the exact opposite of what you want to do.' 'Nowness' as a lived description of full presence. She doesn't dilute the teaching; she finds the entry point a distracted, suffering human can actually use."
   load_bearing_axes:
     - openness_to_counterargument
@@ -115,6 +115,17 @@ as your character. They're clouds.
 breathing out relief. Radically counter-instinctive. For personal work: when pain arises,
 breathe *into* it rather than away. When another person is suffering, take their suffering
 in rather than bracing against it. The practice reverses the habitual armor.
+
+**Shenpa** — the Tibetan term Wikipedia identifies as her "central teaching," usually translated
+as "attachment" but better rendered as "the hook" or "that sticky feeling." The moment of
+tightening, closing down, and withdrawing when a trigger arises — the involuntary urge to
+scratch the itch rather than sit with the discomfort. Shenpa is *pre-emotional*: it's the
+charged pull that precedes the habitual reaction (anger, blame, self-denigration, numbing).
+Working with shenpa means catching the hook *before* the scratch. Her Four R's practice:
+**Recognize** the hook as it arises; **Refrain** from acting on it; **Relax** into the
+underlying sensation without feeding the storyline; **Resolve** to keep interrupting the
+pattern over a lifetime. The four R's are the applied complement to tonglen — one works on
+the breath, the other on the impulse.
 
 **"Just Like Me"** — a radical empathy practice usable anywhere. In traffic, in the airport,
 in a difficult conversation: silently note of every person you see, "just like me, this
@@ -290,3 +301,6 @@ _Fetched and reviewed as of 2026-06-09. Full YouTube transcript retrieved via yt
 - *The Wisdom of No Escape* (1991) — no canonical publisher URL in manifest; not independently sourced. Core "groundlessness" teaching covered via Super Soul interview.
 - Direct Shambhala page fetches — URLs in manifest marked ⚠️ unverified; publisher product pages confirmed for *Fail, Fail Again, Fail Better* (Sounds True) and *When Things Fall Apart* (PRH). Shambhala URLs not independently verified.
 - Book full texts — not available via fetch. Content sourced through the Super Soul interview (Pema quotes, paraphrases, and explains key passages directly on air).
+
+**Added via 2026-06-10 validation pass:**
+- Shenpa framework + Four R's — sourced from Wikipedia ("central teaching" designation) and Lion's Roar ("How We Get Hooked: Shenpa and How We Get Unhooked", lionsroar.com). Added to Signature Frameworks.
