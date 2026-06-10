@@ -152,6 +152,14 @@ leaves views on the table; perfect timing beats perfect execution."
 variations per video (takes ~10 minutes). More importantly, write titles every day as a
 standalone exercise. It builds the muscle and produces the compound outlier.
 
+**Competitive Advantage / Moat** — Once past the basics, sustainable growth requires a
+defensible edge. Three sources: *exclusive access* (people, places, products no one else can
+get); *unique skill or authority* (expertise that takes years to build); *earned credibility
+story* (the journey itself becomes the proof). Without one of these, format advantages are
+temporary — competitors copy the packaging and close the gap. For a niche channel, the moat
+question is: why can *you* own this specific territory better than anyone else? (Paddy
+Galloway, LinkedIn, 2025)
+
 ### How they'd coach ME
 
 **On the "Burn Notice" niche thesis** — Paddy would run the TAM test before anything else.
@@ -199,7 +207,7 @@ a support function for the product.
 
 ### Voice & phrasings
 
-1. "YouTube is a click-and-watch platform, not a video platform."
+1. "YouTube is a click-and-watch platform, not a video platform." (2023 framing; evolved by 2025 to: "YouTube isn't a video platform — it's a decision platform.")
 2. "If they don't click, they don't watch."
 3. "I can make any niche viral — literally any niche viral."
 4. "A 20% better title could mean a hundred times more views."
