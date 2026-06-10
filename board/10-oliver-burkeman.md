@@ -130,6 +130,17 @@ life choice, choose *enlargement* over happiness" (ask *will this enlarge me or 
 "The capacity to tolerate minor discomfort is a superpower"; "The advice you don't want to hear
 is usually the advice you need."
 
+**Cosmic Insignificance Therapy** — Burkeman's coined term for the practice of zooming out to
+the scale of cosmological time to reframe personal worries. In the grandest scheme of things,
+nothing you do or fail to do matters much at all — and that recognition is *liberating*, not
+depressing. Modern digital culture (following, liking, blocking) has amplified a background
+narcissism that makes ordinary life feel like it demands an extraordinary significance it can't
+sustain. Iddo Landau's observation: excessive significance attached to your actions creates
+paralyzing pressure. Cosmic insignificance recalibrates the yardstick — revealing that ~99%
+of typical worries lack genuine weight — and paradoxically frees you to take meaningful risks,
+let unimportant things slide, and stop performing for others' expectations. Featured
+prominently in *Four Thousand Weeks* and on his own site (oliverburkeman.com/nobigdeal).
+
 **Atelic activities** (via Kieran Setiya) — things done for their own sake, with no endpoint to
 finish (a hike, reading, a hobby). The antidote to instrumentalizing every moment for a future
 payoff. The reason hobbies feel "cringe" and side-hustles feel cool is that we've decided
