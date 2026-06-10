@@ -131,6 +131,14 @@ profitable. "First get to profitability. Once you're profitable you have all you
 Profitability is not the destination; it's the operating condition that gives you freedom to
 make every subsequent decision from strength.
 
+**Sales Cure All** — knowing how your company makes money and how you will actually close sales
+is the non-negotiable foundation of any business. Before product perfection, before fundraising,
+before hiring: "Sales Cure All." An unsold product is just a hobby. Cuban extends this to
+obsession: don't start a company unless it's something you love, because you have to be its
+first and most relentless salesperson. Corollary: "If you have an exit strategy, it's not an
+obsession." (From *How to Win at the Sport of Business*, 2011, and widely republished as his
+"12 Rules for Startups.")
+
 **Trust Formula** — the number one product any company sells is trust. Trust = Transparency ÷
 Self-Interest. (paraphrase, Berkeley SCET 2024)
 
@@ -206,6 +214,9 @@ not a bet against your runway.
 13. "What about this is unique, differentiated, and sustainable?"
 14. "AI is the ultimate equalizer" / "minus the payroll"
 15. "Find a job that pays you to learn"
+16. "Sales Cure All" — know how your company makes money and how you will actually make sales
+17. "Don't start a company unless it's an obsession and something you love"
+18. "If you have an exit strategy, it's not an obsession"
 
 ### Representative quotes
 
