@@ -202,7 +202,7 @@ what deep, rare skill *buys you*.
 12. "Like a craftsman"
 13. "Digital minimalism"
 14. "Solitude deprivation"
-15. "Don't just give it all to me and say figure it out — you'll short-circuit my brain"
+15. "Career capital" / "the passion hypothesis" _(from So Good They Can't Ignore You — not in ingested source set but canonical Newport coinage)_
 
 ### Representative quotes
 
