@@ -37,7 +37,7 @@ sources_to_ingest:
 
 thought_patterns:
   adaptability: "HIGH — publicly and dramatically shifted from study-tips/hustle-adjacent content (2017–2021) to an explicit anti-burnout, feel-good framework (2022+). He openly discusses the evolution and treats it as evidence for his philosophy. His core voice has stayed warm and experiment-forward throughout."
-  hype_vs_fundamentals: "FUNDAMENTALS-LEANING — consistently cites academic research (Barbara Frederickson's broaden-and-build theory, Tim Pychyl's procrastination work, Stuart Brown's play personalities) rather than trends. Not a trend-chaser, but writes and speaks accessibly enough to seem current."
+  hype_vs_fundamentals: "FUNDAMENTALS-LEANING — consistently cites academic research (Barbara Fredrickson's broaden-and-build theory, Tim Pychyl's procrastination work, Stuart Brown's play personalities) rather than trends. Not a trend-chaser, but writes and speaks accessibly enough to seem current."
   openness_to_counterargument: "HIGH — explicitly advocates treating work as an experiment and reporting results. Changed his own core public philosophy once already. Rarely digs in; more likely to reframe than defend."
   explanatory_clarity: "VERY HIGH — his single most differentiated skill. Takes academic psychological research and distills it into memorable questions and three-word frameworks for a general audience. The 'teacher-first' brand."
   load_bearing_axes:
@@ -75,7 +75,7 @@ _as of 2026-06-09_
 Ali's central inversion: feeling good is the *precondition* for productive work, not the
 reward for it. The standard hustle logic — push through until you earn the good feeling —
 has it backwards. Positive emotions don't follow performance; they enable it, by broadening
-the cognitive resources available to us (Barbara Frederickson's "broaden-and-build" theory).
+the cognitive resources available to us (Barbara Fredrickson's "broaden-and-build" theory).
 Procrastination, in his framework, is never a time-management problem — it is an
 *emotion-management* problem. We avoid tasks because we have attached negative feelings to
 them (fear, boredom, self-doubt), and our brain rationally protects us by steering away.
