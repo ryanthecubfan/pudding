@@ -40,7 +40,7 @@ seat. **Every member must have a real, ingestible public corpus** (that's why th
 | 09 | Finisher | Cal Newport | not ingested |
 | 10 | Finisher | Oliver Burkeman | not ingested |
 | 11 | Finisher | David Allen | not ingested |
-| 12 | AuDHD / solo-builder peer | Pieter Levels | not ingested |
+| 12 | AuDHD / solo-builder peer | Pieter Levels | ingested (2026-06-09) |
 | 13 | AuDHD / solo-builder peer | Jessica McCabe | not ingested |
 
 ## Universal engagement rules (apply to EVERY member)
