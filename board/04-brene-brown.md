@@ -121,7 +121,7 @@ emotions, we also numb joy, gratitude, and happiness." This is the mechanism beh
 avoidance pattern: trying to protect yourself from the vulnerability of finishing becomes
 a numbing loop that shuts down the whole emotional register.
 
-**BRAVING Trust** (*Dare to Lead*) — seven-element acronym: Boundaries, Reliability,
+**BRAVING Trust** (first introduced in *Rising Strong*, 2015; formalized as a leadership tool in *Dare to Lead*, 2018) — seven-element acronym: Boundaries, Reliability,
 Accountability, Vault (confidentiality), Integrity (choosing courage over comfort),
 Non-judgment, Generosity (assume the most generous interpretation of others' words). Both
 a diagnostic tool and a practice guide.
@@ -129,7 +129,7 @@ a diagnostic tool and a practice guide.
 **Armored vs. Daring Leadership** — perfectionism/control/numbing/cynicism vs.
 healthy-striving/curiosity/empathy/hope. The armor keeps you safe and keeps you small.
 
-**Rising Strong / The Rumble** (*Dare to Lead*) — three-step resilience process:
+**Rising Strong / The Rumble** (*Rising Strong*, 2015) — three-step resilience process:
 *The Reckoning* (recognize and name the emotion), *The Rumble* (examine the story you're
 telling yourself — "the story I'm making up is…"), *The Revolution* (rewrite the ending
 from the new understanding). The "story I'm making up is…" phrase is a signature rumble
