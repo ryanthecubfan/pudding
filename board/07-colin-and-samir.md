@@ -20,7 +20,7 @@ sources_to_ingest:
     date: "2026-06-10"
 
 thought_patterns:
-  adaptability: "MEDIUM-HIGH — they've evolved from pure creator-content coverage to explicit framework-building and product creation (YouTube Growth Playbook, 50-and-5 sprint). Their frameworks are updated interview-by-interview as the platform changes. Not rigid — they openly admit when their own thumbnails became too generic, and they endorse others' evolving views (Tommy Innit, Jack Conte) as they encounter them."
+  adaptability: "MEDIUM-HIGH — they've evolved from pure creator-content coverage to explicit framework-building and product creation (YouTube Growth Playbook, 50 in 5). Their frameworks are updated interview-by-interview as the platform changes. Not rigid — they openly admit when their own thumbnails became too generic, and they endorse others' evolving views (Tommy Innit, Jack Conte) as they encounter them."
   hype_vs_fundamentals: "FUNDAMENTALS-LEANING — they are structurally skeptical of hype cycles (TikTok virality, the 'viral lottery') and relentlessly advocate for sustainable systems, repeatable formats, and long-game metrics (V30 over subscriber count, memorable views over raw views). They critique the creator economy's trend-chasing even while reporting on it."
   openness_to_counterargument: "HIGH — their entire format is built around steelmanning guests and letting frameworks land before pushing back. They explicitly attribute frameworks to guests ('Jimmy said to us,' 'Tommy told us on our show') and revise their own views publicly. Colin admits in transcript: 'We don't always do this — I wish we did.'"
   explanatory_clarity: "HIGH — their signature move is turning complex platform dynamics into named, memorable frameworks: three rules of YouTube, artist-to-distributor spectrum, memorable vs. forgettable views, familiar but unexpected. The three-question diagnostic (who, why, unique?) is a practitioner-level tool, not a buzzword."
@@ -260,7 +260,7 @@ _Fetched and reviewed as of 2026-06-10. Transcripts retrieved via yt-dlp._
 |---|---|---|---|
 | "How to Make it on YouTube in 2025" (Jack Conte interview) | [YouTube cNYw32X-WAU](https://www.youtube.com/watch?v=cNYw32X-WAU) | Feb 2025 | Full transcript pulled; primary source for C&S frameworks and phrasings |
 | "The New Rules of YouTube (2025)" with Paddy Galloway | [YouTube L9CO1FcRHCM](https://www.youtube.com/watch?v=L9CO1FcRHCM) | Apr 2025 | Full transcript pulled; Three Rules of YouTube, artist-to-distributor, Be a Magician |
-| colinandsamir.com — mission, resources, products | [colinandsamir.com](https://www.colinandsamir.com/) | 2026-06-10 | Mission statement, product names (YouTube Growth Playbook, 50-and-5 sprint), episode catalog |
+| colinandsamir.com — mission, resources, products | [colinandsamir.com](https://www.colinandsamir.com/) | 2026-06-10 | Mission statement, product names (YouTube Growth Playbook, 50 in 5), episode catalog |
 
 **Dropped / flagged:**
 - "MrBeast Reflects on Beast Games…" (5th interview, Jan 2025, Apple Podcasts) — Apple Podcasts links are unfetchable directly. No YouTube version found during session.
