@@ -197,6 +197,16 @@ at the moments that matter most. Dario: "Comparative advantage is surprisingly p
 if you're only doing 5% of the task, that 5% gets super amplified — the AI does the other
 95% and you become 20x more productive." Claude Code is explicitly a middle-to-middle product.
 
+**BuildPartner.ai** (Marchese's own shipped product, May 2026): A Claude Code plugin that
+loads curated expert advisors — Hormozi (sales/value), Naval Ravikant & Paul Graham (product),
+Gary Vee (marketing), Nikita Bier (growth/launches) — into a session via `/bp:expert-advice`.
+Tagline: "Ship like you have a team of advisors." This is Marchese's proof-of-concept that
+the Expert-Watching Method can be productized: he extracted the frameworks from named experts,
+encoded them into a plugin, and made them invocable on demand. The `/bp:improve-system`
+command sets up recursive feedback loops that improve the project automatically over time.
+(Confirmed: austinmarchese.tech plugin description and sBF3UumkL4Y transcript, May 2026;
+not in original ingestion set.)
+
 ### How they'd coach ME
 
 **On this board itself:** Marchese would recognize the virtual board immediately as an output
@@ -205,7 +215,9 @@ advisors is precisely his step one. He'd then ask: is it operationalized? Does t
 automatically as a skill when you convene it, or are you still prompting from scratch each
 session? You'll be doing this 2–3x per week, following the same pattern — the inner loop test
 passes. Build the skill. The board is the context library; the convene workflow is the slash
-command.
+command. He'd also point at his own BuildPartner.ai as a reference architecture: he literally
+built what you're building — a plugin that loads expert advisors into a Claude Code session on
+demand. Study the `/bp:expert-advice` invocation pattern before you design the board skill.
 
 **On using his own method on his content:** For the AI seats (Herk and Marchese himself), the
 coaching is reflexive — apply his expert-watching method to him. Pull the transcripts of his
