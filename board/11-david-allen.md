@@ -189,7 +189,7 @@ switching is *chosen*, not reactive.
 9. "Outcome and action are the zeroes and ones of productivity."
 10. "Capture, clarify, organize, reflect, engage."
 11. "A trusted system."
-12. "Appropriately engaged with your world."
+12. "Appropriately engaged with your life."
 13. "The natural planning model" (purpose, vision, brainstorm, organize, next action)
 14. "I'm a behavioralist — I started with what works, then backed up to the principle."
 15. "Work-life balance is a hoax — there's just what's next."
@@ -197,7 +197,7 @@ switching is *chosen*, not reactive.
 
 ### Representative quotes
 
-> "Your head's for having ideas, not for holding ideas."
+> "Your head's for having ideas, not for holding ideas." (paraphrase — canonical trademark: "Your mind is for having ideas, not for holding them")
 
 — [The Tim Ferriss Show #384 — The Art of Getting Things Done](https://tim.blog/2019/09/05/the-tim-ferriss-show-transcripts-david-allen-the-art-of-getting-things-done-gtd-384/), Podcast, Sep 2019
 
