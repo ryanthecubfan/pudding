@@ -35,7 +35,7 @@ seat. **Every member must have a real, ingestible public corpus** (that's why th
 | 04 | Belonging / self-compassion | Brené Brown | ingested (2026-06-09) |
 | 05 | Belonging / self-compassion | Pema Chödrön | ingested (2026-06-09) |
 | 06 | Creator growth | Paddy Galloway | ingested (2026-06-09) |
-| 07 | Creator growth | Colin and Samir | not ingested |
+| 07 | Creator growth | Colin and Samir | ingested (2026-06-10) |
 | 08 | Finisher | Ali Abdaal | ingested (2026-06-09) |
 | 09 | Finisher | Cal Newport | not ingested |
 | 10 | Finisher | Oliver Burkeman | not ingested |
