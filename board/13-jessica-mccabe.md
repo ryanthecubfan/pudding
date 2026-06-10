@@ -119,6 +119,16 @@ is the same failure as inability to focus; both are the brain locking onto (or f
 lock onto) a signal regardless of what the person actually wants. This frame removes moral
 blame and opens design-space.
 
+**Rejection Sensitivity (Emotional Regulation as a Core Symptom)**
+ADHD brains frequently experience rejection sensitivity — an intense, near-instantaneous
+emotional response to real or perceived criticism, failure, or exclusion. McCabe draws on
+Dr. William Dodson's work (the same researcher she cites for interest-based activation) to
+frame this as a neurological feature, not a character flaw: the ADHD brain's emotional
+regulation circuits are as affected as its attention circuits. The coaching implication: shame
+and criticism don't motivate ADHD brains — they trigger a threat response that shuts down
+executive function entirely. This is the neurological underpinning of her Coach A / Coach B
+framework and the design reason for the "never push me onto the defensive" rule.
+
 **Pills Don't Teach Skills**
 Medication addresses the neurotransmitter deficit that blocks access to executive function —
 it does not install the skills, habits, and systems that were never learned because the brain
