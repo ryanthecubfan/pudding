@@ -37,7 +37,7 @@ seat. **Every member must have a real, ingestible public corpus** (that's why th
 | 06 | Creator growth | Paddy Galloway | ingested (2026-06-09) |
 | 07 | Creator growth | Colin and Samir | ingested (2026-06-10) |
 | 08 | Finisher | Ali Abdaal | ingested (2026-06-09) |
-| 09 | Finisher | Cal Newport | not ingested |
+| 09 | Finisher | Cal Newport | ingested (2026-06-10) |
 | 10 | Finisher | Oliver Burkeman | not ingested |
 | 11 | Finisher | David Allen | not ingested |
 | 12 | AuDHD / solo-builder peer | Pieter Levels | ingested (2026-06-09) |
